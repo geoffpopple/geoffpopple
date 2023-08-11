@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geoffpopple
 - 👀 I’m interested in All Things Automation
 - 🌱 I’m currently learning ML OPs
-- 📫 How to reach me geoff@elev8tech.com.au
+- 📫 How to reach me geoffpoppleuk@gmail.com
 
 <!---
 geoffpopple/geoffpopple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

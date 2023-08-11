@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geoffpopple
-- 👀 I’m interested in All Things Automatiom
+- 👀 I’m interested in All Things Automation
 - 🌱 I’m currently learning ML OPs
 - 📫 How to reach me geoff@elev8tech.com.au
 
